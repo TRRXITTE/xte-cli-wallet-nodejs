@@ -1,6 +1,6 @@
 # TRAAITT CLI Wallet
 
-<img src="https://github.com/TRRXITTE/traaitt/blob/master/include/XTEterminal.png">
+<img src="https://github.com/TRRXITTE/traaitt/blob/master/include/XTE.png">
 
 A fast, lightweight Terminal User Interface (TUI) wallet for TRAAITT [XTE] cryptocurrency.
 
