@@ -1,12 +1,12 @@
 # TRAAITT CLI Wallet
 
-![TRAAITT Logo](https://raw.githubusercontent.com/trrxitte/traaitt/master/XTE.png)
+[![XTE](https://raw.githubusercontent.com/trrxitte/traaitt/master/XTE.png)](https://github.com/TRRXITTE/traaitt/blob/master/docs/XTE.png)
 
 A fast, lightweight Terminal User Interface (TUI) wallet for TRAAITT [XTE] cryptocurrency.
 
 **traaitt [XTE]** - A fast, easy to use and private decentralized cryptocurrency.
 
-![Wallet Screenshot](./screenshots/walletscreen.png)
+![Wallet Screenshot](./screenshots/xte-cli-0.3.2.png)
 
 ## Features
 
