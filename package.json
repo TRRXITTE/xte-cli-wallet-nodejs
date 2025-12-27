@@ -1,6 +1,6 @@
 {
   "name": "@trrxitte/xte-cli-wallet",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "A TUI wallet for TRAAITT [XTE] - Fast, lightweight terminal wallet powered by xte-wallet-backend",
   "main": "./dist/wallet.js",
   "bin": {
