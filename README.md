@@ -2,9 +2,11 @@
 
 <img src="https://github.com/TRRXITTE/traaitt/blob/master/docs/XTE.png">
 
-A fast, lightweight Terminal User Interface (TUI) wallet for TRAAITT [XTE] cryptocurrency.
+A fast, lightweight Terminal User Interface (TUI) wallet for traaitt [XTE] cryptocurrency.
 
 **traaitt [XTE]** - A fast, easy to use and private decentralized cryptocurrency.
+
+
 <img src="https://github.com/TRRXITTE/xte-cli-wallet-nodejs/blob/main/screenshots/xte-cli-0.3.2.png?raw=true">
 
 
@@ -222,11 +224,11 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 - ✅ Updated branding for TRAAITT
 
 ### v0.3.0
-- ✅ Initial TRAAITT adaptation
+- ✅ Initial traaitt adaptation
 - ✅ Updated to use @trrxitte/xte-wallet-backend
 - ✅ Changed daemon endpoint to TRAAITT network
 - ✅ Updated UI branding
 
 ---
 
-**Made with ❤️ for the TRAAITT community**
+**Made with ❤️ for the XTE community**
