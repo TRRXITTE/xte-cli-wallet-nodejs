@@ -5,7 +5,7 @@
 A fast, lightweight Terminal User Interface (TUI) wallet for TRAAITT [XTE] cryptocurrency.
 
 **traaitt [XTE]** - A fast, easy to use and private decentralized cryptocurrency.
-<img src="https://github.com/TRRXITTE/xte-cli-wallet-nodejs/blob/master/screenshots/xte-cli-0.3.2.png">
+<img src="[https://github.com/TRRXITTE/xte-cli-wallet-nodejs/blob/master/screenshots/xte-cli-0.3.2.png](https://github.com/TRRXITTE/xte-cli-wallet-nodejs/blob/main/screenshots/xte-cli-0.3.2.png?raw=true)">
 
 
 ## Features
