@@ -1,4 +1,4 @@
-# TRAAITT CLI Wallet
+# XTE CLI Wallet
 
 <img src="https://github.com/TRRXITTE/traaitt/blob/master/docs/XTE.png">
 
