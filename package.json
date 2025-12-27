@@ -4,7 +4,7 @@
   "description": "A TUI wallet for TRAAITT [XTE] - Fast, lightweight terminal wallet powered by xte-wallet-backend",
   "main": "./dist/wallet.js",
   "bin": {
-    "traaitt-wallet": "./dist/wallet.js",
+    "xte-cli-wallet": "./dist/wallet.js",
     "xte-wallet": "./dist/wallet.js"
   },
   "dependencies": {
